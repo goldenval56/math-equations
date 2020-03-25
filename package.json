@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/goldenval56/math-equations/issues"
   },
-  "homepage": "https://github.com/goldenval56/math-equations#readme"
+  "homepage": "https://github.com/goldenval56/math-equations#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
