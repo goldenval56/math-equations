@@ -1,0 +1,20 @@
+{
+  "name": "mathequations",
+  "version": "1.0.0",
+  "description": "Math Equations est un programme qui génère des équations du premier degré et vous demande de les résoudre.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldenval56/math-equations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldenval56/math-equations/issues"
+  },
+  "homepage": "https://github.com/goldenval56/math-equations#readme"
+}
